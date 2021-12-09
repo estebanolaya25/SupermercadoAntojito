@@ -1,0 +1,5 @@
+C:\Users\Juanes\Desktop\subantojitos\SupAntojitos\BussinesAntojotos\obj\Debug\net5.0\BussinesAntojotos.csproj.AssemblyReference.cache
+C:\Users\Juanes\Desktop\subantojitos\SupAntojitos\BussinesAntojotos\obj\Debug\net5.0\BussinesAntojotos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juanes\Desktop\subantojitos\SupAntojitos\BussinesAntojotos\obj\Debug\net5.0\BussinesAntojotos.AssemblyInfoInputs.cache
+C:\Users\Juanes\Desktop\subantojitos\SupAntojitos\BussinesAntojotos\obj\Debug\net5.0\BussinesAntojotos.AssemblyInfo.cs
+C:\Users\Juanes\Desktop\subantojitos\SupAntojitos\BussinesAntojotos\obj\Debug\net5.0\BussinesAntojotos.csproj.CoreCompileInputs.cache

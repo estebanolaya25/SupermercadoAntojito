@@ -1,0 +1,12 @@
+C:\Users\Juanes\Desktop\subantojitos\SupAntojitos\LibAntojitos.Data\bin\Debug\net5.0\LibAntojitos.Data.deps.json
+C:\Users\Juanes\Desktop\subantojitos\SupAntojitos\LibAntojitos.Data\bin\Debug\net5.0\LibAntojitos.Data.dll
+C:\Users\Juanes\Desktop\subantojitos\SupAntojitos\LibAntojitos.Data\bin\Debug\net5.0\ref\LibAntojitos.Data.dll
+C:\Users\Juanes\Desktop\subantojitos\SupAntojitos\LibAntojitos.Data\bin\Debug\net5.0\LibAntojitos.Data.pdb
+C:\Users\Juanes\Desktop\subantojitos\SupAntojitos\LibAntojitos.Data\obj\Debug\net5.0\LibAntojitos.Data.csproj.AssemblyReference.cache
+C:\Users\Juanes\Desktop\subantojitos\SupAntojitos\LibAntojitos.Data\obj\Debug\net5.0\LibAntojitos.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juanes\Desktop\subantojitos\SupAntojitos\LibAntojitos.Data\obj\Debug\net5.0\LibAntojitos.Data.AssemblyInfoInputs.cache
+C:\Users\Juanes\Desktop\subantojitos\SupAntojitos\LibAntojitos.Data\obj\Debug\net5.0\LibAntojitos.Data.AssemblyInfo.cs
+C:\Users\Juanes\Desktop\subantojitos\SupAntojitos\LibAntojitos.Data\obj\Debug\net5.0\LibAntojitos.Data.csproj.CoreCompileInputs.cache
+C:\Users\Juanes\Desktop\subantojitos\SupAntojitos\LibAntojitos.Data\obj\Debug\net5.0\LibAntojitos.Data.dll
+C:\Users\Juanes\Desktop\subantojitos\SupAntojitos\LibAntojitos.Data\obj\Debug\net5.0\ref\LibAntojitos.Data.dll
+C:\Users\Juanes\Desktop\subantojitos\SupAntojitos\LibAntojitos.Data\obj\Debug\net5.0\LibAntojitos.Data.pdb

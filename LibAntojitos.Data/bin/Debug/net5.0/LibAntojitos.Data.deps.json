@@ -1,0 +1,68 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LibAntojitos.Data/1.0.0": {
+        "dependencies": {
+          "Cquential.Microsoft.Practices.EnterpriseLibrary.Data": "3.1.0",
+          "WCM.Microsoft.Practices.EnterpriseLibrary.Common": "5.0.414"
+        },
+        "runtime": {
+          "LibAntojitos.Data.dll": {}
+        }
+      },
+      "Cquential.Microsoft.Practices.EnterpriseLibrary.Common/3.1.0": {},
+      "Cquential.Microsoft.Practices.EnterpriseLibrary.Data/3.1.0": {
+        "dependencies": {
+          "Cquential.Microsoft.Practices.EnterpriseLibrary.Common": "3.1.0"
+        },
+        "runtime": {
+          "lib/net35/Microsoft.Practices.EnterpriseLibrary.Data.dll": {
+            "assemblyVersion": "3.1.0.0",
+            "fileVersion": "3.1.0.0"
+          }
+        }
+      },
+      "WCM.Microsoft.Practices.EnterpriseLibrary.Common/5.0.414": {
+        "runtime": {
+          "lib/Microsoft.Practices.EnterpriseLibrary.Common.dll": {
+            "assemblyVersion": "5.0.414.0",
+            "fileVersion": "5.0.414.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LibAntojitos.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cquential.Microsoft.Practices.EnterpriseLibrary.Common/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fF4MdyC4jr18acIh5cYomCkW3pG6rahtqHxKvn/BRWLb6fstNfYWQ/xhD4HPLtayPhWxJEl8hfP+1YW/oIY3Zg==",
+      "path": "cquential.microsoft.practices.enterpriselibrary.common/3.1.0",
+      "hashPath": "cquential.microsoft.practices.enterpriselibrary.common.3.1.0.nupkg.sha512"
+    },
+    "Cquential.Microsoft.Practices.EnterpriseLibrary.Data/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jiIOxDV4AgY/XERJw8NW+/DxSrOl9tMU0E96S31jG6JIYVYIjKFxaxq8BIA/PAhDUrC0wo3oiDe5FYGaPzkwvw==",
+      "path": "cquential.microsoft.practices.enterpriselibrary.data/3.1.0",
+      "hashPath": "cquential.microsoft.practices.enterpriselibrary.data.3.1.0.nupkg.sha512"
+    },
+    "WCM.Microsoft.Practices.EnterpriseLibrary.Common/5.0.414": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Hw2CAEZ6TCAqVyb7+YyN8qzG3dE9fxkcaYqQ8DVZgzZaNe1Y7Z8/5GRwcBwR1M5QnwAJkgF2PJpEBKGeneAwTw==",
+      "path": "wcm.microsoft.practices.enterpriselibrary.common/5.0.414",
+      "hashPath": "wcm.microsoft.practices.enterpriselibrary.common.5.0.414.nupkg.sha512"
+    }
+  }
+}

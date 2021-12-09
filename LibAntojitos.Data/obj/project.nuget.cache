@@ -1,0 +1,52 @@
+{
+  "version": 2,
+  "dgSpecHash": "LC74gVvhg9IPZM6sJiXSkKsmMH+DzYPpoGnsw7rrr7c9YRMfqJeWiFWjAnVOQPPswzkALugk971p3fuRyJEwGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Juanes\\Desktop\\subantojitos\\SupAntojitos\\LibAntojitos.Data\\LibAntojitos.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Juanes\\.nuget\\packages\\cquential.microsoft.practices.enterpriselibrary.common\\3.1.0\\cquential.microsoft.practices.enterpriselibrary.common.3.1.0.nupkg.sha512",
+    "C:\\Users\\Juanes\\.nuget\\packages\\cquential.microsoft.practices.enterpriselibrary.data\\3.1.0\\cquential.microsoft.practices.enterpriselibrary.data.3.1.0.nupkg.sha512",
+    "C:\\Users\\Juanes\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Juanes\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\Juanes\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "C:\\Users\\Juanes\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Juanes\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Juanes\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Juanes\\.nuget\\packages\\system.data.sqlclient\\4.8.3\\system.data.sqlclient.4.8.3.nupkg.sha512",
+    "C:\\Users\\Juanes\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\Juanes\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\Juanes\\.nuget\\packages\\wcm.microsoft.practices.enterpriselibrary.common\\5.0.414\\wcm.microsoft.practices.enterpriselibrary.common.5.0.414.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Cquential.Microsoft.Practices.EnterpriseLibrary.Common 3.1.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Cquential.Microsoft.Practices.EnterpriseLibrary.Common",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Cquential.Microsoft.Practices.EnterpriseLibrary.Data 3.1.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Cquential.Microsoft.Practices.EnterpriseLibrary.Data",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'WCM.Microsoft.Practices.EnterpriseLibrary.Common 5.0.414' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "WCM.Microsoft.Practices.EnterpriseLibrary.Common",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
